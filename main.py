@@ -9,8 +9,8 @@ network calls, and always writes the same bytes.
 import os
 
 LINE = (
-    "The office printer has never once jammed on a draft \u2014 it waits "
-    "until the report is due in five minutes and the whole floor is watching."
+    "Our printer never jams on a draft \u2014 it saves that for the report "
+    "due in five minutes, with the whole floor watching."
 )
 
 
